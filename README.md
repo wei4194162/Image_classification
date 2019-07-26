@@ -1,7 +1,6 @@
 # Image_classification(pytorch)
 image classification by datasets.ImageFolder
 
-      """
       A generic data loader where the images are arranged in this way: ::
 
         root/dog/xxx.png
